@@ -11,10 +11,14 @@ https://tescode-api.herokuapp.com/users
 menjalankan server di local:
 localhost:3001/users
 
+repository server api 
+https://github.com/arbikustia/server-testcode
+
 # Built With 
 
 react js
 express js
+
 axios
 react-icons
 react-medium-image-zoom
@@ -23,6 +27,7 @@ react-select
 sweetalert2
 swiper
 tesseract.js
+
 api statis data wilayah indonesia http://www.emsifa.com/api-wilayah-indonesia/
 
 
