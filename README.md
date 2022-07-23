@@ -16,17 +16,17 @@ https://github.com/arbikustia/server-testcode
 
 # Built With 
 
-react js
-express js
+**react js**
+**express js**
 
-axios
-react-icons
-react-medium-image-zoom
-react-router-dom
-react-select
-sweetalert2
-swiper
-tesseract.js
+**axios**
+**react-icons**
+**react-medium-image-zoom**
+**react-router-dom**
+**react-select**
+**sweetalert2**
+**swiper**
+**tesseract.js**
 
 api statis data wilayah indonesia http://www.emsifa.com/api-wilayah-indonesia/
 
